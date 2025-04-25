@@ -1,3 +1,4 @@
+#Note: Replace the files_to_monitor list with the paths of files you wish to monitor.
 import hashlib
 import time
 import os
